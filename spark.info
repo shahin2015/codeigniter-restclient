@@ -3,3 +3,4 @@ version: 2.2.1
 compatibility: 2.0.0
 dependencies:
 	curl: 1.2.1
+	curl: 1.2.2
